@@ -2,6 +2,37 @@
     font-family: Helvetica;
 }
 
+.main_title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("imgs/pattern.jpeg")
+}
+
 .title {
     font-weight: bold;
+    font-size: 32px;
+    color: white;
+}
+
+.sub_title {
+    font-weight: bold;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
 }
